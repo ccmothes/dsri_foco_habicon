@@ -8,7 +8,7 @@ Forward any questions regarding this project and code base to the PI, Caitlin Mo
 
 ## Workflow and Methods Overview
 
-The workflow is divided into 1) process inputs, 2) execute habitat suitability models, 3) execute connectivity models, 4) execute R \`habicon\` priority models and 5) post-processing. The reproducible codebase can be seen on GitHub here: <https://github.com/GeospatialCentroid/dsri_foco_habicon.>  
+The workflow is divided into 1) process inputs, 2) execute habitat suitability models, 3) execute connectivity models, 4) execute R \`habicon\` priority models and 5) post-processing. The reproducible codebase can be seen on GitHub here: <https://github.com/GeospatialCentroid/dsri_foco_habicon>  
 
 ### Process Inputs 
 
